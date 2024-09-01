@@ -72,9 +72,3 @@
 
 ###
 
-<br clear="both">
-
-![snake animation](https://github.com/netmanoj/netmanoj/blob/output/github-contribution-grid-snake2.svg)
-
-###
-
