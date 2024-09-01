@@ -72,6 +72,9 @@
 
 ###
 
+<br clear="both">
+
 <img src="https://raw.githubusercontent.com/netmanoj/netmanoj/output/snake.svg" alt="Snake animation" />
 
 ###
+
