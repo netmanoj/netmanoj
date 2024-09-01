@@ -74,7 +74,7 @@
 
 <br clear="both">
 
-https://github.com/netmanoj/netmanoj/blob/output/github-contribution-grid-snake2.svg
+![snake animation](https://github.com/netmanoj/netmanoj/blob/output/github-contribution-grid-snake2.svg)
 
 ###
 
