@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! I'm Manoj</h2>
+<h1 align="left">Hi 👋! I'm Manoj</h1>
 
 ###
 
@@ -38,16 +38,40 @@
 
 ###
 
-<img align="right" height="150" src="https://d2w9rnfcy7mm78.cloudfront.net/7659474/original_52dd03a85da7df799ad993104e9f30ed.gif?1592093803"  />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=netmanoj&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+</div>
 
+###
 
-
-<img align="right" height="150" src="https://d2w9rnfcy7mm78.cloudfront.net/7659474/original_52dd03a85da7df799ad993104e9f30ed.gif?1592093803"  />
+<img align="right" height="160" src="https://d2w9rnfcy7mm78.cloudfront.net/7659474/original_52dd03a85da7df799ad993104e9f30ed.gif?1592093803"  />
 
 ###
 
 <div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4" alt="Layout with last medium posts"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=netmanoj&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=monokai&hide_border=false&order=2" height="160" alt="languages graph"  />
 </div>
+
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=netmanoj&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="110" alt="streak graph"  />
+</div>
+
+###
+
+<div align="right">
+  <img src="https://github-profile-trophy.vercel.app?username=netmanoj&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=true&no-frame=false&order=4" height="150" alt="trophy graph"  />
+</div>
+
+###
+
+<div align="center">
+  <img height="150" src="https://i.pinimg.com/originals/f5/93/a5/f593a5c372d18c0c68738ccec5c41033.gif"  />
+</div>
+
+###
+
+<img src="https://raw.githubusercontent.com/netmanoj/netmanoj/output/snake.svg" alt="Snake animation" />
 
 ###
