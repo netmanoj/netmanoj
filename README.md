@@ -67,7 +67,7 @@
 ###
 
 <div align="center">
-  <img height="150" width= "700" src="https://i.pinimg.com/originals/f5/93/a5/f593a5c372d18c0c68738ccec5c41033.gif"  />
+  <img height="350" width= "800" src="https://i.pinimg.com/originals/f5/93/a5/f593a5c372d18c0c68738ccec5c41033.gif"  />
 </div>
 
 ###
