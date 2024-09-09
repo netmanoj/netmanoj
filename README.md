@@ -92,8 +92,8 @@
 ###
 
 <div align="center">
-  <img src="https://media.giphy.com/media/xT5LMtZEkFiPSgLqzW/giphy.gif" alt="sci-fi GIF" height="200" />
-  <img src="https://media.giphy.com/media/26tP2B2nYbdA0kmxO/giphy.gif" alt="sci-fi GIF" height="200" />
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExamY1cjBnZ2ZmaWN5b25jNWZrZHluOGJhNW9neDVldG42cW92NDg1MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zsfxnYgAeiznBm2MYY/giphy.webp" alt="sci-fi GIF" height="200" />
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnQ1enpydDRiZXV3cGx0ejZraThrb2w4OGJucjYweXVta2U0cmd4NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/aObBxyxa8c9XXLlxvB/giphy.webp" alt="sci-fi GIF" height="200" />
 </div>
 
 
