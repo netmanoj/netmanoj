@@ -44,7 +44,7 @@
 
 ###
 
-<img align="right" height="200" width="350" src="https://d2w9rnfcy7mm78.cloudfront.net/7659474/original_52dd03a85da7df799ad993104e9f30ed.gif?1592093803"  />
+<img align="center" height="250" width="370" src="https://d2w9rnfcy7mm78.cloudfront.net/7659474/original_52dd03a85da7df799ad993104e9f30ed.gif?1592093803"  />
 
 ###
 
