@@ -7,9 +7,12 @@
   <img src="https://img.shields.io/static/v1?message=Node.js&logo=node.js&label=&color=339933&logoColor=white&style=for-the-badge" height="35" alt="node.js logo" />
   <img src="https://img.shields.io/static/v1?message=Express&logo=express&label=&color=000000&logoColor=white&style=for-the-badge" height="35" alt="express logo" />
   <img src="https://img.shields.io/static/v1?message=Firebase&logo=firebase&label=&color=FFCA28&logoColor=black&style=for-the-badge" height="35" alt="firebase logo" />
+  <img src="https://img.shields.io/static/v1?message=MongoDB&logo=mongodb&label=&color=47A248&logoColor=white&style=for-the-badge" height="35" alt="mongodb logo" />
   <img src="https://img.shields.io/static/v1?message=HTML5&logo=html5&label=&color=E34F26&logoColor=white&style=for-the-badge" height="35" alt="html5 logo" />
   <img src="https://img.shields.io/static/v1?message=CSS3&logo=css3&label=&color=1572B6&logoColor=white&style=for-the-badge" height="35" alt="css3 logo" />
   <img src="https://img.shields.io/static/v1?message=Git&logo=git&label=&color=F05032&logoColor=white&style=for-the-badge" height="35" alt="git logo" />
+  <img src="https://img.shields.io/static/v1?message=C&logo=c&label=&color=A8B9CC&logoColor=black&style=for-the-badge" height="35" alt="c logo" />
+  <img src="https://img.shields.io/static/v1?message=Linux&logo=linux&label=&color=FCC624&logoColor=black&style=for-the-badge" height="35" alt="linux logo" />
 </div>
 
 ###
@@ -21,16 +24,19 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="60" alt="nodejs logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="60" alt="express logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="60" alt="firebase logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="60" alt="mongodb logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" alt="html5 logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="60" alt="css3 logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="60" alt="git logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="60" alt="c logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="60" alt="linux logo" />
 </p>
 
 ###
 
 <h3 align="center">📝 About Me</h3>
 <p align="center">
-  I am a dedicated Full-Stack JavaScript Developer with a passion for crafting seamless and dynamic web applications. With a solid foundation in JavaScript, React, Node.js, and various other technologies, I thrive on building innovative solutions and delivering high-quality user experiences.
+  I am a dedicated Full-Stack JavaScript Developer with a passion for crafting seamless and dynamic web applications. With a solid foundation in JavaScript, React, Node.js, MongoDB, and various other technologies, I thrive on building innovative solutions and delivering high-quality user experiences.
 </p>
 
 <p align="center">
@@ -92,10 +98,9 @@
 ###
 
 <div align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExamY1cjBnZ2ZmaWN5b25jNWZrZHluOGJhNW9neDVldG42cW92NDg1MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zsfxnYgAeiznBm2MYY/giphy.webp" alt="sci-fi GIF" height="200" />
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnQ1enpydDRiZXV3cGx0ejZraThrb2w4OGJucjYweXVta2U0cmd4NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/aObBxyxa8c9XXLlxvB/giphy.webp" alt="sci-fi GIF" height="200" />
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExamY1cjBnZ2ZmaWN5b25jNWZrZHluOGJhNW9neDVldG42cW92NDg1MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zsfxnYgAeiznBm2MYY/giphy.webp" alt="sci-fi GIF" height="200" style="margin-right: 30px;" />
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnQ1enpydDRiZXV3cGx0ejZraThrb2w4OGJucjYweXVta2U0cmd4NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/aObBxyxa8c9XXLlxvB/giphy.webp" alt="sci-fi GIF" height="200" style="margin-left: 30px;" />
 </div>
-
 
 ###
 <img src="https://raw.githubusercontent.com/netmanoj/netmanoj/output/snake.svg" alt="Snake animation" />
