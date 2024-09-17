@@ -42,11 +42,6 @@
 <p align="center">
   My journey in tech has been driven by a love for modern web development, creating interactive UI components, and working on both frontend and backend technologies. I am constantly exploring new tools and frameworks to enhance my skill set and stay up-to-date with industry trends.
 </p>
-
-<p align="center">
-  Whether it's developing a complex application, designing intuitive user interfaces, or optimizing performance, I bring enthusiasm and creativity to every project. I am always eager to collaborate with like-minded individuals and contribute to exciting projects.
-</p>
-
 ###
 
 <div align="center">
