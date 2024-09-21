@@ -42,7 +42,6 @@
 <p align="center">
   My journey in tech has been driven by a love for modern web development, creating interactive UI components, and working on both frontend and backend technologies. I am constantly exploring new tools and frameworks to enhance my skill set and stay up-to-date with industry trends.
 </p>
-###
 
 <div align="center">
   <img width="800" src="https://github-readme-stats.vercel.app/api?username=netmanoj&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="200" alt="stats graph" />
