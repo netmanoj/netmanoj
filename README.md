@@ -19,7 +19,7 @@
 
 <h3 align="center">📝 About Me</h3>
 <p align="center">
-  I am a dedicated Full-Stack JavaScript Developer with a passion for crafting seamless and dynamic web applications. With a solid foundation in JavaScript, React, Node.js, MongoDB, and various other technologies, I thrive on building innovative solutions and delivering high-quality user experiences.
+  I am a dedicated Full-Stack JavaScript Developer with a passion for crafting seamless and dynamic web applications. With a solid foundation in JavaScript, React, Node.js, MongoDB, and various other technologies, I thrive on building innovative solutions and delivering quality user experiences.
 </p>
 
 <p align="center">
