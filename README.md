@@ -10,19 +10,6 @@
   <img src="https://img.shields.io/static/v1?message=C&logo=c&label=&color=A8B9CC&logoColor=black&style=for-the-badge" height="35" alt="c logo" />
   <img src="https://img.shields.io/static/v1?message=Linux&logo=linux&label=&color=FCC624&logoColor=black&style=for-the-badge" height="35" alt="linux logo" />
 </div>
-
-###
-
-
-
-<div align="center">
-  <img width="800" src="https://github-readme-stats.vercel.app/api?username=netmanoj&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="200" alt="stats graph" />
-</div>
-
-<div align="center">
-  <img width="800" src="https://streak-stats.demolab.com?user=netmanoj&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=10&order=3" height="140" alt="streak graph" />
-</div>
-
 ###
 
 <h3 align="center">🌟 Projects & Contributions</h3>
