@@ -10,7 +10,7 @@
   <img src="https://img.shields.io/static/v1?message=C&logo=c&label=&color=A8B9CC&logoColor=black&style=for-the-badge" height="35" alt="c logo" />
   <img src="https://img.shields.io/static/v1?message=Linux&logo=linux&label=&color=FCC624&logoColor=black&style=for-the-badge" height="35" alt="linux logo" />
 </div>
-###
+
 
 <h3 align="center">🌟 Projects & Contributions</h3>
 <p align="center">
