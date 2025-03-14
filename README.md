@@ -9,6 +9,13 @@
   <img src="https://img.shields.io/static/v1?message=Git&logo=git&label=&color=F05032&logoColor=white&style=for-the-badge" height="35" alt="git logo" />
   <img src="https://img.shields.io/static/v1?message=C&logo=c&label=&color=A8B9CC&logoColor=black&style=for-the-badge" height="35" alt="c logo" />
   <img src="https://img.shields.io/static/v1?message=Linux&logo=linux&label=&color=FCC624&logoColor=black&style=for-the-badge" height="35" alt="linux logo" />
+  
+  <!-- New badges -->
+  <img src="https://img.shields.io/static/v1?message=Firebase&logo=firebase&label=&color=FFCA28&logoColor=black&style=for-the-badge" height="35" alt="firebase logo" />
+  <img src="https://img.shields.io/static/v1?message=Express&logo=express&label=&color=000000&logoColor=white&style=for-the-badge" height="35" alt="express logo" />
+  <img src="https://img.shields.io/static/v1?message=MongoDB&logo=mongodb&label=&color=47A248&logoColor=white&style=for-the-badge" height="35" alt="mongodb logo" />
+  <img src="https://img.shields.io/static/v1?message=PostgreSQL&logo=postgresql&label=&color=336791&logoColor=white&style=for-the-badge" height="35" alt="postgresql logo" />
+  <img src="https://img.shields.io/static/v1?message=Supabase&logo=supabase&label=&color=3ECF8E&logoColor=white&style=for-the-badge" height="35" alt="supabase logo" />
 </div>
 
 
