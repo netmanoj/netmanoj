@@ -56,11 +56,4 @@ I am actively working on projects that showcase my skills and contribute to the 
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnQ1enpydDRiZXV3cGx0ejZraThrb2w4OGJucjYweXVta2U0cmd4NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/aObBxyxa8c9XXLlxvB/giphy.webp" alt="sci-fi GIF" height="200" style="margin-left: 30px;" />
 </div>
 
-###
-<div style="text-align: center;">
-  <img src="https://raw.githubusercontent.com/netmanoj/netmanoj/output/snake.svg" 
-    alt="Snake animation" 
-    width="300" 
-    height="100" />
-</div>
-###
+
