@@ -57,6 +57,5 @@ I am actively working on projects that showcase my skills and contribute to the 
 </div>
 
 ###
-<img src="https://raw.githubusercontent.com/netmanoj/netmanoj/output/snake.svg" alt="Snake animation" />
-
+<img src="https://raw.githubusercontent.com/netmanoj/netmanoj/output/snake.svg" alt="Snake animation" width="300" height="100" />
 ###
