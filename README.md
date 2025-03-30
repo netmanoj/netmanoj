@@ -40,8 +40,7 @@
 </div>
 
 
-## 🌟 Projects & Contributions
-💡 Explore my work and contributions on [**GitHub**](https://github.com/netmanoj).  
+
 I am actively working on projects that showcase my skills and contribute to the open-source community.
 
 ---
