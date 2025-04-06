@@ -1,8 +1,5 @@
 <h1 align="center">👋 Hi, I'm Manoj</h1>
-<h3 align="center">Dev#01</h3>
-
 ## 🚀 Tech Stack
-
 ### 🖥️ Frontend
 <div>
   <img src="https://img.shields.io/static/v1?message=TypeScript&logo=typescript&label=&color=3178C6&logoColor=white&style=flat-square" height="25" alt="typescript logo" />
